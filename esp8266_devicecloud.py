@@ -1,6 +1,6 @@
 """
-  Example for posting data to Device Cloud (digi.com/devicecloud)
-  for data graphing, storage and analysis.
+  Example for posting data to Device Cloud for data graphing, storage and analysis.
+  (digi.com/products/cloud/digi-device-cloud)
   by Rob Faludi, faludi.com
 """
 
